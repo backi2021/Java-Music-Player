@@ -12,7 +12,7 @@
   <li><b>JDK 22+ - Java Version</b></li>
   <li><b>Mp3Magic</b> - A java library for reading mp3 files and manipulating mp3 file ID3 tags</li>
   <li><b>JLayer</b> - MP3 decoder/player/converter library for Java™ platform. </li>
-  <li><b>JAudioTagger</b> - The aim of this project is to provide a world class Java library for editing tag information in audio files. Most existing solutions are not java based inhibiting the use of java applications with digital files. </li>
+  <li><b>JAudioTagger</b> - Java library for editing audio file tags </li>
 </ul>
 
 <!--Features-->
@@ -35,5 +35,5 @@
 <!--Screenshots (GIFs/PNGs)-->
 <h2>Screenshots</h2>
 <p align="center">
-  <img src="https://github.com/backi2021/Java-Music-Player/blob/main/Screenshot.png">
+  <img src="https://github.com/backi2021/Java-Music-Player/blob/main/Screenshot.png" alt="Description of image" width="500">
 </p>
