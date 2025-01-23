@@ -35,5 +35,5 @@
 <!--Screenshots (GIFs/PNGs)-->
 <h2>Screenshots</h2>
 <p align="center">
-  <img src="https://github.com/backi2021/Java-Music-Player/blob/main/Screenshot.png" alt="Description of image" width="500">
+  <img src="https://github.com/backi2021/Java-Music-Player/blob/main/Screenshot.png" alt="Description of image" width="400">
 </p>
