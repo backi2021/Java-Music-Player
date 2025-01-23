@@ -37,3 +37,5 @@
 <p align="center">
   <img src="https://github.com/backi2021/Java-Music-Player/blob/main/Screenshot.png" alt="Description of image" width="400">
 </p>
+
+Icons and asstes used in this project are from: <a href="https://www.flaticon.com/free-icons/music" title="music icons">Music icons created by Freepik - Flaticon</a>
